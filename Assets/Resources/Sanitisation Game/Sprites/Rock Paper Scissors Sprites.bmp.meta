@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 4089899a264345d43bb8b515d3b0ef8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1495542418784128417
+    second: Hand 1 Rock
+  - first:
+      213: -4770160369462073727
+    second: Hand 1 Scissors
+  - first:
+      213: -5791096074670685779
+    second: Hand 1 Paper
+  - first:
+      213: 4986427200100018122
+    second: Hand 2 Scissors
+  - first:
+      213: 7895170661837492368
+    second: Hand 2 Paper
+  - first:
+      213: -7680462170854267343
+    second: Menu Rock
+  - first:
+      213: 8826306682343040083
+    second: Menu Scissors
+  - first:
+      213: -1990766107674894470
+    second: Menu Paper
+  - first:
+      213: 3954811869397285627
+    second: Hand 2 Rock
+  - first:
+      213: -6453784928176893116
+    second: Menu Rock Selected
+  - first:
+      213: 6369160734319408007
+    second: Menu Scissors Selected
+  - first:
+      213: -3993192693613669920
+    second: Menu Paper Selected
+  - first:
+      213: -3856361837600761505
+    second: Hand 3 Paper
+  - first:
+      213: 5190971760018460897
+    second: Hand 3 Scissors
+  - first:
+      213: -2449382601992108372
+    second: Hand 3 Rock
+  - first:
+      213: -6220284792078658685
+    second: Hand 4 Paper
+  - first:
+      213: 5052450076698849149
+    second: Hand 4 Scissors
+  - first:
+      213: -5868574887719708455
+    second: Hand 4 Rock
+  - first:
+      213: 8196121344084899236
+    second: Hand 5 Paper
+  - first:
+      213: -1185130494663164187
+    second: Hand 5 Scissors
+  - first:
+      213: -3021396034161388253
+    second: Hand 5 Rock
+  - first:
+      213: -3358549336814319880
+    second: Hand 6 Paper
+  - first:
+      213: 1756696435713563989
+    second: Hand 6 Scissors
+  - first:
+      213: 3724884343621250945
+    second: Hand 6 Rock
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hand 1 Rock
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 196
+        width: 63
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad082af7eb31c410800000000000000
+      internalID: 1495542418784128417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 1 Scissors
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 196
+        width: 62
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1862198da6cfccdb0800000000000000
+      internalID: -4770160369462073727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 1 Paper
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 196
+        width: 107
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da148197dc4e1afa0800000000000000
+      internalID: -5791096074670685779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 2 Scissors
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 196
+        width: 61
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7ae488e19533540800000000000000
+      internalID: 4986427200100018122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 2 Paper
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 196
+        width: 105
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090d8e3f2e7419d60800000000000000
+      internalID: 7895170661837492368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Rock
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 337
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136e7633954896590800000000000000
+      internalID: -7680462170854267343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Scissors
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 337
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354a6bfe9275d7a70800000000000000
+      internalID: 8826306682343040083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Paper
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 337
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f9629c5c06f54e0800000000000000
+      internalID: -1990766107674894470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 2 Rock
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 196
+        width: 62
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa7ce4117052e630800000000000000
+      internalID: 3954811869397285627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Rock Selected
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 289
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4431f3b2dcc8f66a0800000000000000
+      internalID: -6453784928176893116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Scissors Selected
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 289
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783797e41fdc36850800000000000000
+      internalID: 6369160734319408007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Paper Selected
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 289
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1d879e6645598c0800000000000000
+      internalID: -3993192693613669920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 3 Paper
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 8
+        width: 105
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f591f6037537b7ac0800000000000000
+      internalID: -3856361837600761505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 3 Scissors
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 8
+        width: 65
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e01cf210590a0840800000000000000
+      internalID: 5190971760018460897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 3 Rock
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 65
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca60d39308b020ed0800000000000000
+      internalID: -2449382601992108372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 4 Paper
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 8
+        width: 107
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383136620fb1da9a0800000000000000
+      internalID: -6220284792078658685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 4 Scissors
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 8
+        width: 62
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fa7036398ed1640800000000000000
+      internalID: 5052450076698849149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 4 Rock
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 8
+        width: 63
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d850bf8b32ae8ea0800000000000000
+      internalID: -5868574887719708455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 5 Paper
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 8
+        width: 121
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a57d2200f87eb170800000000000000
+      internalID: 8196121344084899236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 5 Scissors
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 8
+        width: 79
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee7e1d18129d8fe0800000000000000
+      internalID: -1185130494663164187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 5 Rock
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 8
+        width: 80
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3255902a058d116d0800000000000000
+      internalID: -3021396034161388253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 6 Paper
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 8
+        width: 107
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f60f8a2c290461d0800000000000000
+      internalID: -3358549336814319880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 6 Scissors
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 8
+        width: 74
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dd6e4d91a016810800000000000000
+      internalID: 1756696435713563989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand 6 Rock
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 8
+        width: 74
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f65f2439271b330800000000000000
+      internalID: 3724884343621250945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
